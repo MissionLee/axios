@@ -11,7 +11,8 @@
 Promise based HTTP client for the browser and node.js
 
 ## Features
-
+- MissionLee-拓展：支持基于LocalStorage/SessionStorage/RAM的客户端缓存
+- MissionLee-改动：使用TypeScript重写部分代码
 - Make [XMLHttpRequests](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) from the browser
 - Make [http](http://nodejs.org/api/http.html) requests from node.js
 - Supports the [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) API
