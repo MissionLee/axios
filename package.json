@@ -62,6 +62,7 @@
     "load-grunt-tasks": "^3.5.2",
     "minimist": "^1.2.0",
     "mocha": "^5.2.0",
+    "promise-cache-controller": "^1.0.0",
     "sinon": "^4.5.0",
     "typescript": "^2.8.1",
     "url-search-params": "^0.10.0",
